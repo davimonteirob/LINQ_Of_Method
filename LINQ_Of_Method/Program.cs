@@ -1,0 +1,4 @@
+﻿
+//usando LINQ  de método
+
+
